@@ -24,14 +24,14 @@ public class MaxMin3 {
         return maxMin;
     }
     public static void main (String[] args) {
-        int v[] = new int[10];
+        int v[] = new int[20];
         v[0] = 5;  v[1] = 12;
         v[2] = 4;  v[3] = 1;
         v[4] = 9; v[5] = 22;
         v[6] = 3; v[7] = 11;
         v[8] = 17; v[9] = 33;
-        //v[10] = 15;
-        int maxMin[] =  MaxMin3.maxMin3 (v, 10);
+        v[10] = 15;
+        int maxMin[] =  MaxMin3.maxMin3 (v, 11);
         System.out.println ("Max:" + maxMin[0]);
         System.out.println ("Min:" + maxMin[1]);
     }
