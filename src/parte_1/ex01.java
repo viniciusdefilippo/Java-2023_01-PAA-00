@@ -1,4 +1,4 @@
-package exemplos;
+package parte_1;
 
 public class ex01 {
 

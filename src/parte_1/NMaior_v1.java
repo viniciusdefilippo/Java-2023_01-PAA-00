@@ -1,4 +1,4 @@
-package exemplos;
+package parte_1;
 
 public class NMaior_v1 {
     public static int N_maior(int A[], int B[], int n) {

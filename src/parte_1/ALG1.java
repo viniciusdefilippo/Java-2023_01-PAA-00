@@ -1,4 +1,4 @@
-package exemplos;
+package parte_1;
 
 public class ALG1 {
     public static void main(String[] args) {
